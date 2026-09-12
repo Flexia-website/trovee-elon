@@ -1,0 +1,34 @@
+TROVEE TRADING PLATFORM - IMAGE PLACEMENT GUIDE
+
+Place your 15 high-quality trading/finance images here with these exact filenames:
+
+1. trading-platform-01.jpg  - Crypto trading dashboard/interface
+2. trading-platform-02.jpg  - Stock market trading screen
+3. trading-platform-03.jpg  - Bitcoin/crypto chart
+4. trading-platform-04.jpg  - Ethereum or altcoins
+5. trading-platform-05.jpg  - Forex trading interface
+6. trading-platform-06.jpg  - Portfolio dashboard
+7. trading-platform-07.jpg  - Trading signals/analysis
+8. trading-platform-08.jpg  - Mobile app screenshot
+9. trading-platform-09.jpg  - Wallet/security features
+10. trading-platform-10.jpg - Commodities/precious metals
+11. trading-platform-11.jpg - Risk management tools
+12. trading-platform-12.jpg - Education/learning materials
+13. trading-platform-13.jpg - Customer support/chat
+14. trading-platform-14.jpg - Payment methods
+15. trading-platform-15.jpg - Security/encryption features
+
+IMAGE REQUIREMENTS:
+- Format: JPG or PNG (JPG recommended)
+- Minimum resolution: 400x300 pixels
+- Recommended resolution: 1200x900 pixels or larger
+- Max file size: 2-3MB per image
+- Should be relevant to trading and investment topics
+
+These images will:
+✓ Appear in Google Image Search results
+✓ Improve SEO rankings
+✓ Be indexed by search engines
+✓ Help drive traffic to your platform
+
+After uploading images, ensure the file paths in the sitemaps match your image filenames.
