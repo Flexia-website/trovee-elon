@@ -12,8 +12,8 @@ Disallow: /*.pdf$
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://trovee-hq.onrender.com/sitemap.xml
-Sitemap: https://trovee-hq.onrender.com/sitemap-images.xml
+Sitemap: https://site.trovee-hq.dedyn.io/sitemap.xml
+Sitemap: https://site.trovee-hq.dedyn.io/sitemap-images.xml
 
 # Google-specific rules
 User-agent: Googlebot
